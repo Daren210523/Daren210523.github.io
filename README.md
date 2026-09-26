@@ -1,7 +1,7 @@
 # Daren Xu — Portfolio
 
 Electrical Engineering at Northeastern University — embedded systems, real-time audio
-DSP, and FPGA. Live at **https://daren210523.github.io**.
+DSP, and FPGA. Live at **https://darenxu.com**.
 
 This repository holds only the **generated site**: HTML, CSS, JS, inline SVG diagrams,
 images, and resume PDFs. It is produced by a Python generator kept in a separate working
